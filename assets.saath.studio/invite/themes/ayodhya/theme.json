@@ -1,0 +1,212 @@
+{
+  "layout": "keepsake",
+  "decor": "deepotsav",
+  "id": "ayodhya",
+  "name": "Deepotsav",
+  "line": "Diya by diya, the ghats of Ayodhya light up, the Ram Mandir glows, and your names appear in the night sky. With a Ram Darbar blessing.",
+  "story": "Diwali is the night Ayodhya lit its lamps for Ram and Sita coming home. Your invite opens on that night by the Saryu. Your guest taps, the diyas light one after another along the ghat, the Ram Mandir glows rose-gold, and your names appear in the sky. Inside, a Ram Darbar painting blesses your invitation, under जय सियाराम.",
+  "palette": {
+    "ink": "#F4EBD9",
+    "paper": "#141A3D",
+    "accent": "#E6B04C",
+    "accent2": "#E4A58E",
+    "gold": "#E2BC72",
+    "night": "#0A0F26"
+  },
+  "fonts": {
+    "script": "Pinyon Script",
+    "serif": "Cormorant Garamond",
+    "deva": "Tiro Devanagari Hindi",
+    "display": "Cinzel"
+  },
+  "moods": {
+    "haldi": {
+      "accent": "#E8B23A",
+      "paper": "#171A3A"
+    },
+    "mehendi": {
+      "accent": "#9CC77A",
+      "paper": "#131B36"
+    },
+    "sangeet": {
+      "accent": "#E59AAE",
+      "paper": "#18183A"
+    },
+    "wedding": {
+      "accent": "#F0963A",
+      "paper": "#1A1838"
+    },
+    "reception": {
+      "accent": "#E6B04C",
+      "paper": "#151A3D"
+    }
+  },
+  "invocation": "॥ जय सियाराम ॥",
+  "opening": {
+    "type": "keepsake",
+    "gesture": "diyas",
+    "film": "opening-v2.mp4",
+    "first": "opening-v2-first.webp",
+    "last": "opening-v2-last.webp",
+    "aspect": "9 / 16",
+    "focus": [
+      0.06,
+      0.12,
+      0.94,
+      0.95
+    ],
+    "tap": [
+      0.05,
+      0.12,
+      0.95,
+      0.92
+    ],
+    "from": 0.4,
+    "rate": 1.15,
+    "writeAt": 7.3,
+    "names": {
+      "left": 0.1,
+      "top": 0.075,
+      "right": 0.9,
+      "bottom": 0.285
+    },
+    "tone": "light",
+    "edge": {
+      "top": "#001736",
+      "bottom": "#1c191e"
+    },
+    "hint": {
+      "en": "Tap to light the diyas",
+      "hi": "दीये जलाने के लिए छुएँ"
+    },
+    "filmNote": "Made once in Google Flow on 2 November 2026 (ayodhya/opening/flow, NOTES.md): a Nano Banana Pro first frame of the Saryu ghats at night with the Ram Mandir across the river, unlit, the ghat steps lined with unlit diyas and one diya floating close to the camera; a Veo 3.1 Fast clip from that first frame alone (Kamal's lesson), in which the diyas light in a wave from the near steps round the curve and away, then the temple lights tier by tier, and the camera rises a little. Downloaded at 1080p, its last 1.2 s eased to a stop (tools/easeout.py), cropped to the 9:16 window clear of Flow's marks (tools/process_film.py). The last frame is the film's own; the names are written in the sky above the temple. Glints in code bloom over the temple tiers and the lit ghat steps (opening.glints); a Flow extension tried as a looping film drifted sideways and was not kept.",
+    "fireworks": {
+      "from": 5,
+      "launch": 0.42,
+      "sky": [
+        0.2,
+        0.1,
+        0.8,
+        0.22
+      ],
+      "low": [
+        [
+          0.5,
+          0.3,
+          0.88,
+          0.35
+        ],
+        [
+          0.1,
+          0.31,
+          0.15,
+          0.36
+        ]
+      ]
+    },
+    "glints": [
+      {
+        "left": 0.14,
+        "top": 0.4,
+        "right": 0.82,
+        "bottom": 0.47
+      },
+      {
+        "left": 0.46,
+        "top": 0.5,
+        "right": 0.98,
+        "bottom": 0.56
+      },
+      {
+        "left": 0.52,
+        "top": 0.62,
+        "right": 0.98,
+        "bottom": 0.8
+      },
+      {
+        "left": 0.62,
+        "top": 0.84,
+        "right": 0.98,
+        "bottom": 0.94
+      }
+    ]
+  },
+  "art": {
+    "closed": "closed.webp",
+    "hero": "hero.webp",
+    "paper": "paper.webp",
+    "frame": "frame.webp",
+    "divider": "divider.webp",
+    "corner": "corner.webp",
+    "motif": "motif.webp",
+    "blessing": "blessing.webp",
+    "frameZone": {
+      "left": 0.12,
+      "top": 0.17,
+      "right": 0.88,
+      "bottom": 0.83
+    },
+    "heroCouple": null,
+    "cardHero": {
+      "file": "hero.webp",
+      "focus": [
+        0.5,
+        0.5
+      ]
+    },
+    "fn": {
+      "haldi": "fn-haldi.webp",
+      "mehendi": "fn-mehendi.webp",
+      "sangeet": "fn-sangeet.webp",
+      "wedding": "fn-wedding.webp",
+      "reception": "fn-reception.webp",
+      "engagement": "fn-engagement.webp"
+    },
+    "venue": "venue.webp",
+    "dress": "dress.webp",
+    "scenes": {
+      "invite": {
+        "file": "scene-invite.webp",
+        "corners": [
+          [
+            0.1439,
+            0.2275
+          ],
+          [
+            0.4342,
+            0.2324
+          ],
+          [
+            0.4492,
+            0.7754
+          ],
+          [
+            0.1185,
+            0.7783
+          ]
+        ]
+      },
+      "favour": {
+        "file": "scene-favour.webp",
+        "corners": [
+          [
+            0.3736,
+            0.4002
+          ],
+          [
+            0.668,
+            0.3973
+          ],
+          [
+            0.6693,
+            0.5361
+          ],
+          [
+            0.375,
+            0.5391
+          ]
+        ]
+      }
+    }
+  }
+}

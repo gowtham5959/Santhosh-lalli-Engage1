@@ -1,0 +1,8 @@
+-q -%i -iC2 https://saath.studio/i/demo?t=ayodhya&lang=en&run=0 -O "\"/Users/gowthamsanthosh/websites/lalli engae5.2\"" -n -t -%P -N0 -s0 -p3 -D -a -K0 -c4 -%k -A100000 -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -ad.doubleclick.net/* -mime:application/foobar +*.webp +*.mp4 +*.webm +*.json +*.svg +*.woff +*.woff2 +*.ttf +*.mp3 +*.css +*.js +*.png +*.jpg +*.jpeg +*.gif -u1 -%s -%u -f2 -%I0 -%f
+File generated automatically on Sun, 08 Nov 2026 20:07:38, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
